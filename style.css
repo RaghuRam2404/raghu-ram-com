@@ -1,0 +1,129 @@
+body{
+	background-color: #e2e1e6;
+	font-family: Helvetica;
+}
+
+.top_row{
+	background-color: #353c46;
+	color: #edf1f3;
+}
+
+.name{
+	font-size: 40px;
+}
+
+.designation{
+	font-size: 22px;
+	font-weight: 200;
+}
+
+.tobe{
+	text-decoration:overline;
+}
+
+.portfolios{
+	text-align: right;
+}
+
+.portfolios .portfolio-link{
+	color: #edf1f3;
+	text-decoration: underline;
+}
+
+/*
+.portfolio-link:hover{
+	cursor: pointer;
+	transition: color .4s;
+	color: #dcecf4;
+}*/
+
+.bottom{
+	text: #292929;
+}
+.bottom_inner{
+	margin-top : 10px;
+}
+
+.bottom_left{
+	background-color: #f6f6f6;
+}
+
+.bottom_right{
+	background-color: #f0f0f0;
+}
+
+.summary_exp{
+	color: #a8a8a8;
+}
+
+.work_summary{
+	color: #545454;
+	width: 100%;
+	margin-top: 10px;
+}
+
+.sep{
+	margin-top : 3px;
+	width:  100%;
+	border-top: 1px solid #dbdbdb;
+	height: 2px;
+
+}
+
+.exp{
+	border-left: 1px solid #dbdbdb;
+	margin-top: 3px;
+	padding-left : 10px;
+}
+
+.left_header{
+	margin-top : 10px;
+	color: #37363b;
+	font-weight: 600;
+	font-size: 20px;
+}
+
+.section{
+	margin-top: 10px;
+}
+
+.sec-left, .sec-right-heading{
+	color: #37363b;
+	font-weight: 600;
+	font-size: 15px;
+}
+
+.sec-right-middle{
+	font-style: italic;;
+}
+
+.sec-right-content{
+}
+
+.dot-full{
+	display: block;
+}
+.dot-data{
+	display: relative;
+	float: left;
+}
+.dot{
+	display: relative;
+	float: right;
+}
+
+.black{
+	display: relative;
+	float: left;
+	background-image: url("./dot.png");
+	width: 16px;
+	height: 16px;
+}
+.white{
+	display: relative;
+	float: left;
+	background-image: url("./dot.png");
+	width: 16px;
+	height: 16px;
+	background-position: bottom;
+}
