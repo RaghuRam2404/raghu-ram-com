@@ -10,11 +10,13 @@ body{
 
 .name{
 	font-size: 40px;
+	margin-left:20px;
 }
 
 .designation{
 	font-size: 22px;
 	font-weight: 200;
+	margin-left:20px;
 }
 
 .tobe{
