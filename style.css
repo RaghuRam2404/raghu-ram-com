@@ -3,20 +3,32 @@ body{
 	font-family: Helvetica;
 }
 
+.container{
+	width: 1050px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
 .top_row{
 	background-color: #353c46;
 	color: #edf1f3;
 }
 
+.profileimg{
+	margin: 12px 0px;
+	height: 120px;
+	width: 120px;
+}
+
 .name{
 	font-size: 40px;
-	margin-left:20px;
+	/*margin-left:20px;*/
 }
 
 .designation{
 	font-size: 22px;
 	font-weight: 200;
-	margin-left:20px;
+	/*margin-left:20px;*/
 }
 
 .tobe{
